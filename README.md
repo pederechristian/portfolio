@@ -1,6 +1,6 @@
 # Christian Jay Lord A. Pedere — Digital Portfolio
 
-A clean black portfolio with blue accents full name Christian Jay Lord A. Pedere (Pedz), an Information Technology graduate and aspiring developer. 
+A clean black portfolio with white and blue accents for Christian Jay Lord A. Pedere (Pedz), an Information Technology graduate and aspiring developer.
 
 ## Files
 - `index.html` — portfolio content and structure
